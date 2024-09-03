@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.0.9",
           "category": "lgt8fx",
-          "url": "http://39.108.252.158:8089/nulllab/nulllab_arduino-1.0.9.zip",
+          "url": "http://39.96.172.95:18080/nulllab/nulllab_arduino-1.0.9.zip",
           "archiveFileName": "nulllab_arduino-1.0.9.zip",
           "checksum": "SHA-256:80a84119bd26379b206d54b9cefec3676ef1c5f03f46f752c8e34b61f5fb72a4",
           "size": "2025110",
